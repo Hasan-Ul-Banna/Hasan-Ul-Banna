@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasan-ul-banna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-ul-banna" height="30" width="40" /></a>
-<a href="https://fb.com/hasanulbanna04056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanulbanna04056" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasan-ul-banna" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://fb.com/hasanulbanna04056" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4406/4406220.png" alt="hasanulbanna04056" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
